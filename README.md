@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anhgelus
 - 👀 I’m interested in software (dev and sys admin) and hardware.
-- 🌱 I’m currently learning Java (with Spigot), C/C++ and GoLang.
+- 🌱 I’m currently learning GoLang and C/C++.
 - 💞️ I’m looking to collaborate on french or internationnal project : I like many projects in many differently styles.
-- 📫 You can reach me to : anhgelus.morhtuuzh@protonmail.com or Anhgelus Morhtuuzh ⛥⸸#7777 (discord).
+- 📫 You can reach me to : anhgelus.morhtuuzh@protonmail.com or in discord https://discord.gg/cjUjTErkpJ.
