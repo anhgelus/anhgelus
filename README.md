@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @anhgelus
 - 👀 I’m interested in software (dev and sys admin) and hardware.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning C.
 - 🌐 See my [website](https://anhgelus.github.io/) for more information!
