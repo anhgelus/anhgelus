@@ -7,7 +7,7 @@ Currently, I am the lead developer of [La Fabrick](https://la-fabrick.eu) and th
 
 I'm no longer interested in simple projects: I want real challenges like creating an maze generator or a compression algorithm.
 
-My portfolio and CV are available [here](https://www.anhgelus.world/)
+My portfolio and CV are available [here](https://www.anhgelus.world/).
 
 ## Stats
 
