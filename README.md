@@ -1,18 +1,14 @@
-Welcome to my GitHub profile!
+I am William Hergès known as Anhgelus Morhtuuzh on Internet and in the French Minecraft community.
 
-## Projects
+Old chief executive and lead developer from the biggest independant French Minecraft community based on Discord,
+I am always working to create incredible tools and to push the boundaries of Minecraft events.
 
-- My own [search engine](https://github.com/anhgelus/local-searchengine)
-- Implementation of what I have learned during this year : [Math-Libs](https://github.com/anhgelus/math-libs)
-- My own [website](https://github.com/anhgelus/anhgelus.github.io)
-- Minecraft Library to create and manage [teams](https://github.com/La-Fabrick/TeamMaker)
+Currently, I am the lead developer of [La Fabrick](https://la-fabrick.eu) and the director of the [MSMP Project](https://github.com/msmp-mc).
+
+I'm no longer interested in simple projects: I want real challenges like creating an maze generator or a compression algorithm.
+
+My portfolio and CV are available [here](https://www.anhgelus.world/)
 
 ## Stats
 
 ![Stats](https://github-profile-trophy.vercel.app/?username=anhgelus)
-
-## More information
-
-Do you want to get more informations about myself?
-
-Just look at my [website](https://www.anhgelus.world)!
