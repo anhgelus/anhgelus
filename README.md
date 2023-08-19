@@ -1,13 +1,14 @@
 I am William Hergès known as Anhgelus Morhtuuzh on Internet and in the French Minecraft community.
 
-Old chief executive and lead developer from the biggest independant French Minecraft community based on Discord,
-I am always working to create incredible tools and to push the boundaries of Minecraft events.
+I was the chief executive and lead developer from the biggest independant French Minecraft community based on Discord.
 
-Currently, I am the lead developer of [La Fabrick](https://la-fabrick.eu) and the director of the [MSMP Project](https://github.com/msmp-mc).
+Currently, I have no project for a simple reason: I have been accepted in the CPES Sciences of Henri IV and PSL (one of France's toughest university courses)
 
-I'm no longer interested in simple projects: I want real challenges like creating an maze generator or a compression algorithm.
+I'm no longer interested to join any projects (math is better than computers).
 
 My portfolio and CV are available [here](https://www.anhgelus.world/).
+
+My blog is available [here](https://blog.anhgelus.world/) (French only).
 
 ## Stats
 
