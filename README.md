@@ -2,7 +2,7 @@ I am William Hergès known as Anhgelus Morhtuuzh on Internet and in the French M
 
 I was the chief executive and lead developer from the biggest independant French Minecraft community based on Discord.
 
-Currently, I have no project for a simple reason: I have been accepted in the [CPES Sciences of Henri IV and PSL](https://psl.eu/en/education/multidisciplinary-undergraduate-degree-cpes) (one of France's toughest university courses)
+Currently, I have no project for a simple reason: I have been accepted in the [CPES Sciences of Henri IV and PSL](https://psl.eu/en/education/multidisciplinary-undergraduate-degree-cpes) (one of France's toughest university courses).
 
 I'm no longer interested to join any projects (math is better than computers).
 
