@@ -10,6 +10,8 @@ My blog is available [here](https://blog.anhgelus.world/) (French only).
 
 ## Stats
 
-![Stats](https://github-profile-trophy.vercel.app/?username=anhgelus)
+![Stats](https://github-profile-trophy.vercel.app/?username=anhgelus&no-frame=true&margin-w=15&margin-h=15&theme=discord&no-bg=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anhgelus&layout=donut)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhgelus&layout=donut" alt="Languages' stats">
+</div>
