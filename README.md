@@ -1,14 +1,27 @@
-I am William Hergès known as Anhgelus Morhtuuzh on Internet and in the French Minecraft community.
+🧑 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-I was the chief executive and lead developer from the biggest independant French Minecraft community based on Discord.
+💡 - Working on [Architects Land](https://architects-land.anhgelus.world/), an **innovative Minecraft SMP** with [their own custom difficulty](https://github.com/architects-land/difficulty-death-scaler)
 
-Currently, I have no big project for a simple reason: I have been accepted in the [a double bachelor in Science and in Philosophy at the Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1).
+🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1)
 
-My portfolio and CV are available [here](https://www.anhgelus.world/).
+---
 
-My blog is available [here](https://blog.anhgelus.world/) (French only).
+I am a former student of the leading university [PSL](https://psl.eu) and of the prestigious high-school [Lycée Henri-IV](https://lycee-henri4.com/).
 
-## Stats
+My portfolio is available [on my website](https://www.anhgelus.world/).
+
+My [blog](https://blog.anhgelus.world/) is hosted by Infomaniak, an ethical Swiss company.
+
+You can check my [now page](https://now.anhgelus.world/) if you want to get more information about myself!
+
+---
+
+I am on Blueksy (`@anhgelus.world`), on Mastodon (`@anhgelus@anhgelus.world`) and on Matrix (`anhgelus:matrix.nouveauprintemps.org`).
+You can join [my Discord server](https://discord.gg/qg74PRXGur) if you want to join my events.
+
+You can reach me on these plateforms, or you can send me [a mail](mailto:me@anhgelus.world).
+
+---
 
 ![Stats](https://github-profile-trophy.vercel.app/?username=anhgelus&no-frame=true&margin-w=15&margin-h=15&theme=discord)
 
