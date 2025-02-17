@@ -1,6 +1,6 @@
 🧑 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-💡 - Working on [Architects Land](https://architects-land.anhgelus.world/), an **innovative Minecraft SMP** with [their own custom difficulty](https://github.com/architects-land/difficulty-death-scaler)
+💡 - Working on [Architects Land](https://architects-land.anhgelus.world/), an **innovative Minecraft SMP** with [its own custom difficulty](https://github.com/architects-land/difficulty-death-scaler)
 
 🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1)
 
