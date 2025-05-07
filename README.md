@@ -1,4 +1,4 @@
-🧑 - William Hergès, known as **Anhgelus Morhtuuzh**
+😺 - William Hergès, known as **Anhgelus Morhtuuzh**
 
 💡 - Working on [Architects Land](https://architects-land.anhgelus.world/), an **innovative Minecraft SMP** with [its own custom difficulty](https://github.com/architects-land/difficulty-death-scaler)
 
