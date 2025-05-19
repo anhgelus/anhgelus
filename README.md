@@ -16,7 +16,7 @@ You can check my [now page](https://now.anhgelus.world/) if you want to get more
 
 ---
 
-I am on Blueksy (`@anhgelus.world`), on Mastodon (`@anhgelus@anhgelus.world`) and on Matrix (`@anhgelus:matrix.nouveauprintemps.org`).
+I am on Blueksy (`@anhgelus.world`), on Mastodon (`@anhgelus@anhgelus.world`, but I am not active on it) and on Matrix (`@anhgelus:matrix.org`).
 You can join [my Discord server](https://discord.gg/qg74PRXGur) if you want to join my events.
 
 You can reach me on these plateforms, or you can send me [a mail](mailto:me@anhgelus.world).
