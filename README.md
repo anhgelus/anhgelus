@@ -1,6 +1,6 @@
 😺 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-💡 - Working on [Architects Land](https://architects-land.anhgelus.world/), an **innovative Minecraft SMP** with [its own custom difficulty](https://github.com/architects-land/difficulty-death-scaler)
+💡 - Working on [PlankLang](https://github.com/planklang), a programming language describing plot, and on [Nyttikord](https://github.com/nyttikord), a group creating [GoMath](https://github.com/gomath) and [nerdkord](https://github.com/nerdkord).
 
 🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1) and member of [ALIAS](https://github.com/alias-asso), the computer science students association of my college.
 
