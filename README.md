@@ -8,18 +8,18 @@
 
 I am a former student of the leading university [PSL](https://psl.eu) and of the prestigious high-school [Lycée Henri-IV](https://lycee-henri4.com/).
 
-My portfolio is available [on my website](https://www.anhgelus.world/).
+My portfolio is available [on my website](https://william.herges.fr/).
 
 My [blog](https://blog.anhgelus.world/) is hosted by Infomaniak, an ethical Swiss company.
 
-Check my [now page](https://now.anhgelus.world/)!
+Check my [now page](https://anhgelus.world/)!
 
 ---
 
 I am on Blueksy (`@anhgelus.world`), on Mastodon (`@anhgelus@piaille.fr`) and on Matrix (`@anhgelus:matrix.org`).
 You can join [my Discord server](https://discord.gg/qg74PRXGur) to participate to my events.
 
-You can reach me on these plateforms, or you can send me [an email](mailto:me@anhgelus.world).
+You can reach me on these plateforms, or you can send me [an email](mailto:william@herges.fr).
 
 ---
 
