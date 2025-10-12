@@ -10,9 +10,7 @@ I am a former student of the leading university [PSL](https://psl.eu) and of the
 
 My portfolio is available [on my website](https://william.herges.fr/).
 
-My [blog](https://blog.anhgelus.world/) is hosted by Infomaniak, an ethical Swiss company.
-
-Check my [now page](https://anhgelus.world/)!
+My [blog](https://anhgelus.world/) is hosted by Infomaniak, an ethical Swiss company.
 
 ---
 
