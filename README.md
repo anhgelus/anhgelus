@@ -1,6 +1,6 @@
 😺 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-💡 - Working on [gokord](https://github.com/nyttikord/gokord) — a fork of discordgo —, and on [Nouveau Printemps](https//github.com/Nouveau-Printemps) — a group creating an independant safe-space on the Internet.
+💡 - Working on [gokord](https://github.com/nyttikord/gokord) — a fork of discordgo —, and on [Nouveau Printemps](https://github.com/Nouveau-Printemps) — a group creating an independant safe-space on the Internet.
 
 🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1).
 
