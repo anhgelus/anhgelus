@@ -21,7 +21,7 @@ I am a former student of the leading university [PSL](https://psl.eu) and of the
 My portfolio is available [on my website](https://william.herges.fr/).
 
 My [blog](https://anhgelus.world/) is hosted by Infomaniak, an ethical Swiss company.
-(It's powered by it's own markdown parser, because I can ig?)
+(It's powered by its own markdown parser, because I can ig?)
 
 ---
 
