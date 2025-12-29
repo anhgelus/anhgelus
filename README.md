@@ -12,7 +12,7 @@ I am highly interested in:
 - operating systems, system administration, cybersecurity and fiability;
 - metaphysics, ethics, and political philosophy.
 
-I don't use LLMs, because I love programming :D
+I don't use LLMs, because I love coding :D
 
 ---
 
