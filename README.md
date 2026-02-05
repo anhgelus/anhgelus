@@ -35,3 +35,11 @@ My other projects:
 - [small web](https://git.anhgelus.world/anhgelus/small-web) — my personnal website;
 - [Les Copaings Bot](https://git.anhgelus.world/anhgelus/les-copaings-bot) — Discord bot creating a custom XP;
 - [nerdkord](https://github.com/nyttikord/nerdkord) — in coming bot to do math-related things directly on Discord.
+
+I like using Go, Zig, HTML/SCSS, Elixir, and Clojure.
+
+I can use Java, Kotlin, $\LaTeX$, typst, CSS, Erlang, and C.
+
+I dislike Python, PHP, JS/TS, and Rust.
+
+One day I will learn Lisp, OCaml, Haskell, and Prolog.
