@@ -1,6 +1,6 @@
 😺 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-💡 - Working on [gokord](https://github.com/nyttikord/gokord) — a fork of discordgo —, and on [Nouveau Printemps](https://github.com/Nouveau-Printemps) — a group creating an independant safe-space on the Internet.
+💡 - Working on [gokord](https://github.com/nyttikord/gokord) and on [IO/SU 2026](https://iosu.alias-asso.fr/).
 
 🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1).
 
@@ -31,8 +31,7 @@ You can reach me on these plateforms, or you can send me [an email](mailto:willi
 
 ---
 
-![Stats](https://github-profile-trophy.vercel.app/?username=anhgelus&no-frame=true&margin-w=15&margin-h=15&theme=discord)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhgelus&layout=donut" alt="Languages' stats">
-</div>
+My other projects:
+- [small web](https://git.anhgelus.world/anhgelus/small-web) — my personnal website;
+- [Les Copaings Bot](https://git.anhgelus.world/anhgelus/les-copaings-bot) — Discord bot creating a custom XP;
+- [nerdkord](https://github.com/nyttikord/nerdkord) — in coming bot to do math-related things directly on Discord.
