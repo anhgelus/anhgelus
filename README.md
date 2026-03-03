@@ -1,6 +1,6 @@
 😺 - William Hergès, known as **Anhgelus Morhtuuzh**
 
-💡 - Working on [gokord](https://github.com/nyttikord/gokord) and on [IO/SU 2026](https://iosu.alias-asso.fr/).
+💡 - Working on [gokord](https://github.com/nyttikord/gokord).
 
 🧑‍💻 - Student at [Sorbonne Université](https://www.sorbonne-universite.fr/) in the [double bachelor Computer Science - Philosophy](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-cursus-et-doubles-licences-sciences-et-1).
 
